@@ -37,7 +37,8 @@ int main()
     {
         cout<<array3[i]<<' ';
     }
-    cout<<'finished';
+    cout<<'finished'<<endl;
+    
     
     return 0;
     
