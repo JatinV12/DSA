@@ -38,7 +38,7 @@ int main()
         cout<<array3[i]<<' ';
     }
     cout<<'finished'<<endl;
-    
+    cout<<"bakchodi";
     
     return 0;
     
